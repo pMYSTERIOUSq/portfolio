@@ -59,12 +59,8 @@ A modern, fully responsive single-page website for a technology solutions provid
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 > The website is a single static HTML file — open it directly in any modern browser.
 
-[View Demo](#) *(replace with your hosted URL)*
-
 ---
-
-## 📁 File Structure

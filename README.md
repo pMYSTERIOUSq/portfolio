@@ -7,8 +7,6 @@
 
 A modern, fully responsive single-page website for a technology solutions provider, featuring an AI-powered support chatbot with human escalation capabilities, a subscription/payment flow, team avatar upload, dark mode, and a rich interactive user experience — all in a single HTML file.
 
-![NexoTech Preview](https://via.placeholder.com/1200x600/4f46e5/ffffff?text=NexoTech+Website+Preview)
-
 ---
 
 ##  Features
